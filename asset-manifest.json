@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/Mariem-Portfolio-main/static/css/main.7dc220b1.css",
+    "main.js": "/Mariem-Portfolio-main/static/js/main.7e3b4149.js",
+    "index.html": "/Mariem-Portfolio-main/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.7dc220b1.css",
+    "static/js/main.7e3b4149.js"
+  ]
+}
